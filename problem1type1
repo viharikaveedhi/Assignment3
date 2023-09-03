@@ -1,4 +1,6 @@
 # ASSIGNMENT 3, PROBLEM 1
+#Write a Python function to sum all the numbers in a list.
+
 
 num = [1, 2, 3, 4, 5]
 total = 0

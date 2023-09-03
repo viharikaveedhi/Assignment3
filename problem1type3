@@ -1,0 +1,10 @@
+#ASSIGNMENT 1 PROBLEM 1
+#Write a Python function to sum all the numbers in a list.
+
+
+num = [8,2,3,0,7]
+total = 0
+for x in num:
+    total += x
+
+print(total)

@@ -1,0 +1,14 @@
+lst=[]
+n = int(input("Enter number of elements : "))
+print ("Enter the elements one by one by clicking on ENTER key everytime")
+for i in range(0, n):
+    ele = int(input())
+    # adding the element
+    lst.append(ele) 
+ 
+print(lst)
+total = 0
+for x in lst:
+    total += x
+
+print(total)

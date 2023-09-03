@@ -1,3 +1,7 @@
+#ASSIGNMENT 3 PROBLEM 2
+#Write a Python program to reverse a string.
+
+
 def reverse(string):
     string = string[::-1]
     return string
